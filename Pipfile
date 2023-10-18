@@ -10,6 +10,7 @@ black = "*"
 pyautogen = "*"
 requests = "*"
 google-search-results = "*"
+tweepy = "*"
 
 [dev-packages]
 
